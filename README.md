@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-I am **WeiJie Liu**, a Ph.D. student in Computer Science at [Soochow University](https://www.suda.edu.cn/).  
-My research interests lie in **Natural Language Processing**, **Machine Learning**, and **mathematical methods for AI**.
+I am **WeiJie Liu**, a Ph.D. student in Computer Science at [Soochow University](https://www.suda.edu.cn/).
 
-Currently, my work focuses on **table-to-text generation** and **text quality evaluation**, with an emphasis on improving language models’ understanding of structured data and enhancing their interpretability.
+My research focuses on **Natural Language Processing for tabular and structured data**, including question answering, generation, retrieval, and evaluation.
 
-- 🔭 I’m currently working on table-to-text generation and text evaluation.
-- 🌱 I’m interested in NLP, deep learning, algorithms, and mathematics.
-- 💬 Feel free to reach out if you are interested in my research or projects.
+- 🔭 I’m currently working on **table-centric NLP** and **structured-data understanding**.
+- 🌱 I’m interested in **NLP**, **machine learning**, **algorithms**, and **mathematics**.
 - 📫 Email: [weijieliu.cs@gmail.com](mailto:weijieliu.cs@gmail.com)
-- 🌐 Homepage: [weijieliu-cs.github.io](https://weijieliu-cs.github.io)
