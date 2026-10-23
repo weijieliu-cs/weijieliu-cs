@@ -9,4 +9,4 @@ Welcome to my little corner of GitHub!
 - 🛠️ Interested in open-source projects and turning ideas into practice.
 - 📫 Email: [weijieliu.cs@gmail.com](mailto:weijieliu.cs@gmail.com)
 
-*Always curious, always learning.*
+*Just exploring, building, and learning.*
